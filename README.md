@@ -1,4 +1,4 @@
-# [DeltaBalances.github.io](https://deltabalances.github.io)
+# [Idcryptonet.github.io](https://idcryptonet.github.io)
 A community tool to make Ethereum-based decentralized exchanges a little easier.
 + View all your ERC20 token balances in one place (including deposited balances)
 + Retrieve and export a history of all your DEX trades.
